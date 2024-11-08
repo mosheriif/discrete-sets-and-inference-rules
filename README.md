@@ -47,7 +47,7 @@ The following interfaces are required:
 ## Assumptions
 
 - For the power set implementation, it is assumed that the format for the set is [a,b,c,d..], with commas between each element and no spaces and bounded by square brackets.
-- For the inference engine, the input is only in the form “expressions are “<exp1>” and “<exp2>”” as stated in the examples provided in the lab description.
+- For the inference engine, the input is only in the form “expressions are <exp1> and <exp2>” as stated in the examples provided in the lab description.
 - Binary expressions are in the form x<operator>y with no spaces in between.
 - Unary negation operations are in the form ~x with no spaces either.
 
