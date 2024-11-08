@@ -25,14 +25,13 @@ Implements an inference engine to apply inference rules to logical expressions, 
 
 The following interfaces are required:
 - `Expression`: Represents logical expressions.
-- `LogicalExpressionSolver`: Evaluates logical expressions.
 - `InferenceRule` and `InferenceEngine`: Define the structure of inference rules and their application in the engine.
 
 ## Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lab2-sets-inference.git
+   git clone https://github.com/mosheriif/discrete-sets-and-inference-rules.git
    ```
 
 2. Compile the Java files:
@@ -42,7 +41,7 @@ The following interfaces are required:
 
 3. Run the main class:
    ```bash
-   java src.MainClass
+   java src.Main
    ```
 
 ## Assumptions
